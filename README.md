@@ -1,7 +1,7 @@
 ### Cześć! Jestem Piotr! 👋
 
 - 🔭 Pracuję obecnie w <a href = 'https://www.tzmo-global.com/'>TZMO S.A.</a>
-- 🌱 Obecnie skupiam się na szlifowaniu swoich umiejętności w: JavaScript (React, Redux) oraz Java (Spring, Hibernate)
+- 🌱 Aktualnie skupiam się na szlifowaniu swoich umiejętności w: JavaScript (React, Redux) oraz Java (Spring, Hibernate)
 - 👯 Poszukuję miejsca, w którym będę mógł doskonalić i rozwijać swoje programistyczne umiejętności
 - ⚡ Uwielbiam grać w gry RPG (Dungeons and Dragons <3) oraz w siatkówkę
 
